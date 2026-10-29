@@ -61,7 +61,7 @@ users)
 ## Lint
 
 ## Repository
-  * Fix `opam repository add` leaving the repository configured when the initial fetch is interrupted, e.g. with Ctrl-C [#7171 @Abhayindia]
+  * Fix `opam repository add` leaving the repository configured when the initial fetch is interrupted, e.g. with Ctrl-C [#7227 @Abhayindia]
 
 ## Lock
 
